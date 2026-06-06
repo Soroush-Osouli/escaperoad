@@ -1,0 +1,31 @@
+{
+  "allow_embed": "no",
+  "allow_host": "yes",
+  "enable_ads": "no",
+  "debug_mode": "no",
+  "pub_id": "123123",
+  "unlock_timer": "15",
+  "timeShowInter": 120,
+  "timeShowReward": 120,
+  "sdkType": "wgplayer",
+  "hostindex": 2,
+  "promotion": {
+    "enable": "no",
+    "size": 200,
+    "call_to_action": 0,
+    "call_to_action2": null,
+    "promotion_list": [
+      
+    ]
+  },
+  "game": {
+    "name": "Escape Road",
+    "description": "Break out into some awesome driving action with Escape Road and unleash your passion for crazy crashes! Make the virtual city more chaotic than ever!",
+    "image": "https://api.1games.io/data/image/game/escape-road/escape-road.png",
+    "redirect_url": "https://1games.io/escape-road",
+    "promotion": "",
+    "logo_url": "image/logo.png",
+    "moregames_url": "http://10.5.0.2:8080/"
+  },
+  "adsDebug": "no"
+}
