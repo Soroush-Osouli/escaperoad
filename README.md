@@ -1,6 +1,6 @@
 # Escape Road 🚗💨
 
-Escape Road is a 3D car driving web game where players race through city streets and outrun police in intense high-speed chases. The game runs directly in the browser with smooth controls and immersive gameplay.
+Escape Road is a 3D car driving web game made by azgames where players race through city streets and outrun police in intense high-speed chases. The game runs directly in the browser with smooth controls and immersive gameplay.
 
 ## 🕹️ How to Play
 
