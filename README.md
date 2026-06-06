@@ -9,4 +9,4 @@ Escape Road is a 3D car driving web game where players race through city streets
 3. Use your keyboard to play.
 4. Escape from the police as long as possible.
 
-# [Cick Here To Play](https://)
+# [Cick Here To Play](https://soroush-osouli.github.io/escaperoad/)
